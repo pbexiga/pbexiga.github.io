@@ -20,7 +20,7 @@ Technology leader with 20+ years of experience driving large-scale infrastructur
 **La Redoute, Leiria, PT — Director of Infrastructure Platform \| March 2024 – Present**
 
 * Led a complete restructuring of the IT Operations department into a strategic Infrastructure Platform, implementing a "you build it, you own it" mentality and introducing agile frameworks.
-* Merged and redefined five teams (Network, Integration, CORE, Data Management, Supervision), integrating Application Support and Kubernetes/IaC teams.
+* Merged and redefined five teams (Network, Integration, CORE, Data Management, Supervision), and integrated the Application Support and Kubernetes/IaC teams.
 * Empowered teams to take full ownership of infrastructure, driving accountability and enabling direct contributions to system design and operational support.
 * Implemented strategic cluster-based team organization to align teams, boosting collaboration.
 * Recruited experienced managers to guide the newly formed clusters, ensuring strategic alignment.
