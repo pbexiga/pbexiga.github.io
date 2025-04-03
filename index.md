@@ -35,7 +35,7 @@ Technology leader with 20+ years of experience driving large-scale infrastructur
 
 **Blip.pt (Flutter), Porto, PT — Engineering Manager (DevOps) \| May 2023 – March 2024**
 
-* Steered a DevOps team, improving Kafka reliability and SDLC through Scrumban.
+* Steered a DevOps team utilizing Scrumban, focusing on enhancing Kafka reliability and optimizing the Software Development Lifecycle for our development teams.
 * Enhanced and planned the expansion of a self-service developer portal for Kafka and Cassandra management with future goals to integrate more technologies reducing developer dependencies.
 * Led improvements in Infrastructure as Code (IaC) for streamlined provisioning.
 * Streamlined cross-functional alignment with development and product teams.
